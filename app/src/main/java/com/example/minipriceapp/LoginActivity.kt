@@ -8,8 +8,8 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.google.firebase.firestore.FirebaseFirestore
 
-const val ADMIN = "1"//"AdminMiniPrice"
-const val ADMIN_PASSWORD = "1"
+const val ADMIN = "AdminMiniPrice"
+const val ADMIN_PASSWORD = "AdminMiniPrice123456"
 
 class LoginActivity : AppCompatActivity() {
 
