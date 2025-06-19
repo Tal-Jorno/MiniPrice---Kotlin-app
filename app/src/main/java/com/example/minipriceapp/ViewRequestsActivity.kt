@@ -18,7 +18,6 @@ class ViewRequestsActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_view_requests)
 
-        // כפתור חזור
         findViewById<Button>(R.id.buttonBack).setOnClickListener {
             finish()
         }

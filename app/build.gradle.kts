@@ -2,7 +2,7 @@ plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
     id("kotlin-parcelize")
-    id("kotlin-kapt") // הוסף תמיכה ב-KAPT עבור Glide
+    id("kotlin-kapt")
     id("com.google.gms.google-services")
 }
 
