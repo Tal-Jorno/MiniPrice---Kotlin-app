@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "91552489522",
+    "project_id": "miniprice-37d05",
+    "storage_bucket": "miniprice-37d05.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91552489522:android:b22c62f3bf6ef5eadb5c2b",
+        "android_client_info": {
+          "package_name": "com.example.minipriceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFS7p6Ao-kascKlEiNb23XxnSb54T9pxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
